@@ -12,6 +12,8 @@
     "vite": "^7.1.7"
   },
   "dependencies": {
+    "@pixi/devtools": "^2.0.1",
+    "events": "^3.3.0",
     "pixi.js": "^8.14.0"
   }
 }
