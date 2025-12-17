@@ -1,0 +1,12 @@
+body, html {
+    margin: 0;
+}
+
+canvas {
+    position: absolute;
+    height: 90vmin;
+    aspect-ratio: 1/1;
+    left: 50vw;
+    top: 50vh;
+    transform: translate(-50%, -50%);
+}
